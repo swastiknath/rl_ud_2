@@ -4,9 +4,13 @@
 
 
 # Continuous Control
-<div align=center>Udacity Deep Reinforcement Learning Nanodegree.</div>
-<div align=center> Swastik Nath. </div>
-<div align=center> Correspondence Contact: <a href=mailto:swastiknath@outlook.com> Email </a> </div>
+***Udacity Deep Reinforcement Learning Nanodegree.***
+
+***Capstone 2: Continuous Control with Policy Gradient Methods***
+
+***Swastik Nath.*** 
+
+***Correspondence Contact: [Email](mailto:swastiknath@outlook.com)***
 
 ***
 ### Words About the Environment: 
