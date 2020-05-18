@@ -73,11 +73,13 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 - Follow the instructions in `Continuous_Control.ipynb` to get started with the procedures for the training options to check-out from the saved model weights.
 - In order to Get Started with the Multi Agent Version, set `parallal=True` and `num_agent=<number of agents>` in your Agent object: 
- ```
+
+
+```
    from agent import Agent
    agent = Agent(state_size, action_size, random_seed=random_seed, parallal=True, num_agents=num_agents)
 
- ``` 
+``` 
 
 
 (_For AWS_) If you'd like to train the agent on AWS (and have not [enabled a virtual screen](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md)), then please use [this link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Crawler/Crawler_Linux_NoVis.zip) to obtain the "headless" version of the environment.  You will **not** be able to watch the agent without enabling a virtual screen, but you will be able to train the agent.  (_To watch the agent, you should follow the instructions to [enable a virtual screen](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md), and then download the environment for the **Linux** operating system above._)
