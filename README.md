@@ -6,7 +6,7 @@
 # Continuous Control
 ### Udacity Deep Reinforcement Learning Nanodegree.
 ### Swastik Nath.
-
+---
 ### Words About the Environment: 
 
 We will work with the Unity-Ml Agent [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
@@ -70,7 +70,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
  ```
    from agent import Agent
    agent = Agent(state_size, action_size, random_seed=random_seed, parallal=True, num_agents=num_agents)
-   
+
  ``` 
 
 
