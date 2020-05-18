@@ -4,9 +4,11 @@
 
 
 # Continuous Control
-### Udacity Deep Reinforcement Learning Nanodegree.
-### Swastik Nath.
----
+<div align=center>Udacity Deep Reinforcement Learning Nanodegree.</div>
+<div align=center> Swastik Nath. </div>
+<div align=center> Correspondence Contact: <a href=mailto:swastiknath@outlook.com> Email </a> </div>
+
+***
 ### Words About the Environment: 
 
 We will work with the Unity-Ml Agent [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.
